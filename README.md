@@ -8,3 +8,4 @@ Links to cool projects, articles, websites, libraries, software and more!
 - [Animated Sparkles in React](https://www.joshwcomeau.com/react/animated-sparkles-in-react/) - ✨ Sparkly bold text
 - [New patterns for amazing apps](https://web.dev/new-patterns-for-amazing-apps/) - A new collection of patterns for amazing apps, including clipboard patterns, file patterns, and advanced app patterns
 - [Primer Design System](https://primer.style/) - Design, build, and create with GitHub’s design system
+- [The Book of Shaders](https://thebookofshaders.com/) - A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
