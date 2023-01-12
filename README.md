@@ -10,3 +10,5 @@ Links to cool projects, articles, websites, libraries, software and more!
 - [Primer Design System](https://primer.style/) - Design, build, and create with GitHub’s design system
 - [The Book of Shaders](https://thebookofshaders.com/) - A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 - [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/) - A guide for building adaptive favicons using SVG
+- [ScrollyVideo.js](https://scrollyvideo.js.org/) - Video scrubbing tied to scroll, made easy.
+- [Lenis](https://lenis.studiofreight.com/) - A smoothscroller alternative
