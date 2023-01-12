@@ -12,3 +12,5 @@ Links to cool projects, articles, websites, libraries, software and more!
 - [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/) - A guide for building adaptive favicons using SVG
 - [ScrollyVideo.js](https://scrollyvideo.js.org/) - Video scrubbing tied to scroll, made easy.
 - [Lenis](https://lenis.studiofreight.com/) - A smoothscroller alternative
+- [gLTF optimization](https://rd.nytimes.com/projects/optimizing-3d-gltf-assets-for-interactive-journalism) - 3D asset optimization for Vite and Rollup
+- [Threlte](https://threlte.xyz/) - Svelte 🤝 THREE
