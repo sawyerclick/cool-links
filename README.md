@@ -14,3 +14,4 @@ Links to cool projects, articles, websites, libraries, software and more!
 - [Lenis](https://lenis.studiofreight.com/) - A smoothscroller alternative
 - [gLTF optimization](https://rd.nytimes.com/projects/optimizing-3d-gltf-assets-for-interactive-journalism) - 3D asset optimization for Vite and Rollup
 - [Threlte](https://threlte.xyz/) - Svelte 🤝 THREE
+- [EnvShare](https://envshare.dev/) - A better way to share .env files
