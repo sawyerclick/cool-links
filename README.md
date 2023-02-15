@@ -15,3 +15,4 @@ Links to cool projects, articles, websites, libraries, software and more!
 - [gLTF optimization](https://rd.nytimes.com/projects/optimizing-3d-gltf-assets-for-interactive-journalism) - 3D asset optimization for Vite and Rollup
 - [Threlte](https://threlte.xyz/) - Svelte 🤝 THREE
 - [EnvShare](https://envshare.dev/) - A better way to share .env files
+- [Coördinator](https://engineering.atspotify.com/2018/03/introducing-coordinator-a-new-open-source-project-made-at-spotify-to-inject-some-whimsy-into-data-visualizations/) - Turn an SVG into dots with x/y coordinates
